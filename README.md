@@ -11,6 +11,11 @@ A curated collection of ontologies, standards, and related resources relevant to
 - **PMDco**: Platform Material Digital Ontology  
   [w3id.org/pmd/co](https://w3id.org/pmd/co/)  
   ElectronEnergyLossSpectroscopy is a subclass of *Electron Spectroscopy* in PMD Core.
+  - https://github.com/materialdigital/core-ontology/blob/main/pmdco.owl
+  - https://github.com/materialdigital/core-ontology/blob/main/pmdco-full.owl
+  - https://github.com/materialdigital/core-ontology/blob/main/pmdco-base.owl
+  - https://github.com/materialdigital/core-ontology/blob/main/pmdco-simple.owl
+
 
 - **Nanomine Ontology**  
   [materialsmine.org/nm](https://materialsmine.org/nm/)

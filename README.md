@@ -16,9 +16,10 @@ A curated collection of ontologies, standards, and related resources relevant to
   - https://github.com/materialdigital/core-ontology/blob/main/pmdco-base.owl
   - https://github.com/materialdigital/core-ontology/blob/main/pmdco-simple.owl
 
-
 - **Nanomine Ontology**  
   [materialsmine.org/nm](https://materialsmine.org/nm/)
+  - https://bioportal.bioontology.org/ontologies/MATERIALSMINE
+  - Download OWL: https://data.bioontology.org/ontologies/MATERIALSMINE/submissions/3/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb
 
 - **DEB Ontology**  
   [DEB @ BioPortal](https://bioportal.bioontology.org/ontologies/DEB)

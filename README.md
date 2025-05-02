@@ -23,6 +23,7 @@ A curated collection of ontologies, standards, and related resources relevant to
 
 - **DEB Ontology**  
   [DEB @ BioPortal](https://bioportal.bioontology.org/ontologies/DEB)
+  - Download OWL: https://data.bioontology.org/ontologies/DEB/submissions/7/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb
 
 - **CCO - Common Core Ontologies** (via MatPortal)  
   [matportal.org/ontologies/CCO](https://matportal.org/ontologies/CCO)
